@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['Ikram', 'ikram.chaabane@fsegs.usf.tn', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "IKRAM'S WEBSITE"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ikram Chaabane is currently teaching in the Higher Institute of Computer Scienceand Multimedia of Sfax, Tunisia. She received her PhD in 2019 from the Faculty of Economics and Management of Sfax-Tunisia. She is a member of Multimedia In-foRmation systems and Advanced ComputingLaboratory (MIRACL). Her research interests include data mining and machine learning algorithms to classify imbalanced data. "
+  location         : "Sfax, Tunisia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=uofoXw4AAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Ikram-Chaabane-2"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Ichaabane"
   google_plus      :
   keybase          :
   instagram        :
